@@ -1,14 +1,14 @@
-![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)]
+![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)
 <h1 align="center">Hi 👋, I'm Nihar</h1>
-<h3 align="center">An enthusiastic MERN Developer</h3>
+<h3 align="center">An enthusiastic Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar4569&label=Profile%20views&color=0e75b6&style=flat" alt="nihar4569" /> </p>
 
-- 🔭 I’m currently working on [Integrated Annual Academic Calendar for all the Indian universities](https://github.com/Nihar4569/academicalendar)
+- 🏆 I’m a proud winner of [SIH 2022]([https://example.com/sih2022](https://drive.google.com/file/d/1BdzV-oUU96xuBDQIEC6V2VHXvY96w-Fm/view?usp=sharing)) 
 
-- 🌱 I’m currently learning **Flutter, Tailwind CSS**
+- 🔭 I’m currently working on [CareSync: A Hospital Management System](https://github.com/Nihar4569/CareSync--A-Hospital-Management-App) using Spring and React
 
 - 📫 How to reach me **nihar4569@gmail.com**
 
